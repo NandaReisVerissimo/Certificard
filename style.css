@@ -21,6 +21,7 @@ body {
 
 .perfil {
   display: flex;
+  justify-content: space-between;
  }
 
 .perfil-foto {
